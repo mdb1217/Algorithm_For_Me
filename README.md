@@ -24,3 +24,9 @@
 
 **BOJ : https://www.acmicpc.net/problem/2002**
 
+
+:alarm_clock: **2021-02-02**
+
+`2933 미네랄(골드3)`
+
+**BOJ : https://www.acmicpc.net/problem/2933**
