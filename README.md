@@ -16,3 +16,11 @@
 `3055 탈출(골드5)`
 
 **BOJ : https://www.acmicpc.net/problem/3055**
+
+
+:alarm_clock: **2021-02-01**
+
+`2002 추월(골드4)`
+
+**BOJ : https://www.acmicpc.net/problem/2002**
+
