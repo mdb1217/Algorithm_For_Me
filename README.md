@@ -30,3 +30,9 @@
 `2933 미네랄(골드3)`
 
 **BOJ : https://www.acmicpc.net/problem/2933**
+
+:alarm_clock: **2021-02-04**
+
+`16973 직사각형 탈출(골드5)`
+
+**BOJ : https://www.acmicpc.net/problem/16973**
