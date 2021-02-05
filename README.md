@@ -31,8 +31,13 @@
 
 **BOJ : https://www.acmicpc.net/problem/2933**
 
+
 :alarm_clock: **2021-02-04**
 
-`16973 직사각형 탈출(골드5)`
+`16973 직사각형 탈출(골드5)` `14940 쉬운 최단거리(골드5)` `9466 텀 프로젝트(골드4)`
 
 **BOJ : https://www.acmicpc.net/problem/16973**
+
+**BOJ : https://www.acmicpc.net/problem/14940**
+
+**BOJ : https://www.acmicpc.net/problem/9466**
