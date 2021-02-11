@@ -82,7 +82,7 @@
 
 :alarm_clock: **2021-02-11**
 
-`2573 빙산`
+`2573 빙산(골드4)`
 
 **BOJ : https://www.acmicpc.net/problem/2573**
 
