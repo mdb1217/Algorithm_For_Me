@@ -99,3 +99,10 @@
 `6593 상범 빌딩(골드5)`
 
 **BOJ : https://www.acmicpc.net/problem/6593**
+
+
+:alarm_clock: **2021-02-15**
+
+`16957 체스판 위의 공(골드4)`
+
+**BOJ : https://www.acmicpc.net/problem/16957**
