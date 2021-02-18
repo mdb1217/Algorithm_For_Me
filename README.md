@@ -106,3 +106,10 @@
 `16957 체스판 위의 공(골드4)`
 
 **BOJ : https://www.acmicpc.net/problem/16957**
+
+
+:alarm_clock: **2021-02-18**
+
+`1916 최소비용 구하기(골드5)`
+
+**BOJ : https://www.acmicpc.net/problem/1916**
