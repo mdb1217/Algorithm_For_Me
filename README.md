@@ -113,3 +113,10 @@
 `1916 최소비용 구하기(골드5)`
 
 **BOJ : https://www.acmicpc.net/problem/1916**
+
+
+:alarm_clock: **2021-02-21**
+
+`16469 소년 점프(골드5)`
+
+**BOJ : https://www.acmicpc.net/problem/16469**
