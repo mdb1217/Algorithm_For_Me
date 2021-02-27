@@ -141,3 +141,10 @@
 `17836 공주님을 구해라!(골드5)`
 
 **BOJ : https://www.acmicpc.net/problem/17836**
+
+
+:alarm_clock: **2021-02-27**
+
+`1253 좋다(골드3)`
+
+**BOJ : https://www.acmicpc.net/problem/1253**
