@@ -161,6 +161,8 @@
 
 :alarm_clock: **2021-03-01**
 
-`2109 순회강연(골드4)`
+`2109 순회강연(골드4)` `2206 벽 부수고 이동하기(골드4)`
 
 **BOJ : https://www.acmicpc.net/problem/2109**
+
+**BOJ : https://www.acmicpc.net/problem/2206**
