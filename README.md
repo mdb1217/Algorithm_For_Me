@@ -148,3 +148,12 @@
 `1253 좋다(골드3)`
 
 **BOJ : https://www.acmicpc.net/problem/1253**
+
+
+:alarm_clock: **2021-02-28**
+
+`1655 가운데를 말해요(골드2)` `12945 재미있는 박스 정리(골드2)`
+
+**BOJ : https://www.acmicpc.net/problem/1655**
+
+**BOJ : https://www.acmicpc.net/problem/12945**
