@@ -184,3 +184,10 @@
 **BOJ : https://www.acmicpc.net/problem/2638**
 
 **BOJ : https://www.acmicpc.net/problem/20005**
+
+
+:alarm_clock: **2021-03-04**
+
+`5427 불(골드4)`
+
+**BOJ : https://www.acmicpc.net/problem/5427**
