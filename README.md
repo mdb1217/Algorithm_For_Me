@@ -204,3 +204,10 @@
 **BOJ : https://www.acmicpc.net/problem/12851**
 
 **BOJ : https://www.acmicpc.net/problem/14502**
+
+
+:alarm_clock: **2021-03-07**
+
+`16938 캠프 준비(골드4)`
+
+**BOJ : https://www.acmicpc.net/problem/16938**
