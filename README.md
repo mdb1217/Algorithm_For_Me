@@ -233,6 +233,6 @@
 
 :alarm_clock: **2021-03-12**
 
-`1987 알파벳`
+`1987 알파벳(골드4)`
 
 **BOJ : https://www.acmicpc.net/problem/1987**
