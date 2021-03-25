@@ -280,3 +280,10 @@
 `1516 게임 개발(골드3)`
 
 **BOJ : https://www.acmicpc.net/problem/1516**
+
+
+:alarm_clock: **2021-03-25**
+
+`17267 상남자(플래티넘5)`
+
+**BOJ : https://www.acmicpc.net/problem/17267**
