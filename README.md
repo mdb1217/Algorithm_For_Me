@@ -294,3 +294,10 @@
 `1005 ACM Craft(골드3)`
 
 **BOJ : https://www.acmicpc.net/problem/1005**
+
+
+:alarm_clock: **2021-03-27**
+
+`2623 음악프로그램(골드2)`
+
+**BOJ : https://www.acmicpc.net/problem/2623**
