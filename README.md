@@ -287,3 +287,10 @@
 `17267 상남자(플래티넘5)`
 
 **BOJ : https://www.acmicpc.net/problem/17267**
+
+
+:alarm_clock: **2021-03-26**
+
+`1005 ACM Craft(골드3)`
+
+**BOJ : https://www.acmicpc.net/problem/1005**
