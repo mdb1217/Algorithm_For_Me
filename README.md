@@ -309,3 +309,10 @@
 
 **BOJ : https://www.acmicpc.net/problem/1197**
 
+
+:alarm_clock: **2021-03-29**
+
+`16724 피리 부는 사나이(골드2)`
+
+**BOJ : https://www.acmicpc.net/problem/16724**
+
