@@ -316,3 +316,13 @@
 
 **BOJ : https://www.acmicpc.net/problem/16724**
 
+
+:alarm_clock: **2021-03-30**
+
+`2252 줄 세우기(골드2)` `2056 작업(골드4)` `16678 모독(골드5)`
+
+**BOJ : https://www.acmicpc.net/problem/2252**
+
+**BOJ : https://www.acmicpc.net/problem/2056**
+
+**BOJ : https://www.acmicpc.net/problem/16678**
