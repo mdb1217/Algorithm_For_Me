@@ -326,3 +326,10 @@
 **BOJ : https://www.acmicpc.net/problem/2056**
 
 **BOJ : https://www.acmicpc.net/problem/16678**
+
+
+:alarm_clock: **2021-04-01**
+
+`1766 문제집(골드2)` 
+
+**BOJ : https://www.acmicpc.net/problem/1766**
