@@ -333,3 +333,12 @@
 `1766 문제집(골드2)` 
 
 **BOJ : https://www.acmicpc.net/problem/1766**
+
+
+:alarm_clock: **2021-04-02**
+
+`2922 즐거운 단어(골드4)` `2467 용액(골드5)` 
+
+**BOJ : https://www.acmicpc.net/problem/2922**
+
+**BOJ : https://www.acmicpc.net/problem/2467**
