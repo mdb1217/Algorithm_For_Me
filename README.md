@@ -342,3 +342,12 @@
 **BOJ : https://www.acmicpc.net/problem/2922**
 
 **BOJ : https://www.acmicpc.net/problem/2467**
+
+
+:alarm_clock: **2021-04-04**
+
+`2473 세 용액(골드4)` `2470 두 용액(골드5)` 
+
+**BOJ : https://www.acmicpc.net/problem/2473**
+
+**BOJ : https://www.acmicpc.net/problem/2470**
