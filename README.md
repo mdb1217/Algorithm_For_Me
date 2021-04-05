@@ -351,3 +351,10 @@
 **BOJ : https://www.acmicpc.net/problem/2473**
 
 **BOJ : https://www.acmicpc.net/problem/2470**
+
+
+:alarm_clock: **2021-04-05**
+
+`7983 내일 할거야(골드5)` 
+
+**BOJ : https://www.acmicpc.net/problem/7983**
