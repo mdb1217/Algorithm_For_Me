@@ -358,3 +358,12 @@
 `7983 내일 할거야(골드5)` 
 
 **BOJ : https://www.acmicpc.net/problem/7983**
+
+
+:alarm_clock: **2021-04-07**
+
+`1202 보석 도둑(골드2)` `2212 센서(골드5)`
+
+**BOJ : https://www.acmicpc.net/problem/1202**
+
+**BOJ : https://www.acmicpc.net/problem/2212**
