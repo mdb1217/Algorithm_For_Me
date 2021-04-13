@@ -369,8 +369,17 @@
 **BOJ : https://www.acmicpc.net/problem/2212**
 
 
-:alarm_clock: **2021-04-08**
+:alarm_clock: **2021-04-09**
 
 `2141 우체국(골드5)`
 
 **BOJ : https://www.acmicpc.net/problem/2141**
+
+
+:alarm_clock: **2021-04-13**
+
+`2239 스도쿠(골드4)` `10775 공항(골드2)`
+
+**BOJ : https://www.acmicpc.net/problem/2239**
+
+**BOJ : https://www.acmicpc.net/problem/10775**
