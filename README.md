@@ -383,3 +383,10 @@
 **BOJ : https://www.acmicpc.net/problem/2239**
 
 **BOJ : https://www.acmicpc.net/problem/10775**
+
+
+:alarm_clock: **2021-04-15**
+
+`9328 열쇠(골드1)`
+
+**BOJ : https://www.acmicpc.net/problem/9328**
