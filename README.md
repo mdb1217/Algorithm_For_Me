@@ -390,3 +390,12 @@
 `9328 열쇠(골드1)`
 
 **BOJ : https://www.acmicpc.net/problem/9328**
+
+
+:alarm_clock: **2021-04-16**
+
+`2342 Dance Dance Revolution(골드3)` `1647 도시 분할 계획(골드4)`
+
+**BOJ : https://www.acmicpc.net/problem/2342**
+
+**BOJ : https://www.acmicpc.net/problem/1647**
