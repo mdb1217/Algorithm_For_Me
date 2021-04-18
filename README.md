@@ -399,3 +399,12 @@
 **BOJ : https://www.acmicpc.net/problem/2342**
 
 **BOJ : https://www.acmicpc.net/problem/1647**
+
+
+:alarm_clock: **2021-04-18**
+
+`1038 감소하는 수(골드5)` `1759 암호 만들기(골드5)`
+
+**BOJ : https://www.acmicpc.net/problem/1038**
+
+**BOJ : https://www.acmicpc.net/problem/1759**
