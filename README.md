@@ -408,3 +408,10 @@
 **BOJ : https://www.acmicpc.net/problem/1038**
 
 **BOJ : https://www.acmicpc.net/problem/1759**
+
+
+:alarm_clock: **2021-04-19**
+
+`1976 여행 가자(골드4)`
+
+**BOJ : https://www.acmicpc.net/problem/1976**
