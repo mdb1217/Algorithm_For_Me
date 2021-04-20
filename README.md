@@ -415,3 +415,10 @@
 `1976 여행 가자(골드4)`
 
 **BOJ : https://www.acmicpc.net/problem/1976**
+
+
+:alarm_clock: **2021-04-20**
+
+`1941 소문난 칠공주(골드3)`
+
+**BOJ : https://www.acmicpc.net/problem/1941**
